@@ -8,9 +8,3 @@
 > [HeartProject site](https://snowynx.github.io/HeartProject) <br>
 > [HeartProject repository](https://github.com/Snowynx/HeartProject) <br>
 > [HeartProject information](https://github.com/Snowynx/HeartProject/blob/master/INFORMATION.md)
-
-## <u><i>Fallout: New Vegas</i> Modding</u>
-### My personal (and IMHO, amazing) modding base for *"Fallout: New Vegas"*
-
-> [*New Vegas* Modding site](https://snowynx.github.io/new-vegas-modding) <br>
-> [*New Vegas* Modding repository](https://github.com/Snowynx/new-vegas-modding)
