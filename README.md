@@ -4,6 +4,7 @@
 ----
 ### Social handles: 
 
+#### GitHub (you should know this by now): [`Snowynx`](https://github.com/Snowynx)
 #### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) (private)
 #### Discord: `Snowynx#5128`
 #### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
