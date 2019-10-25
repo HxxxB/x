@@ -6,9 +6,9 @@
 
 ----
 
-### [Global MIT License, applied to my gists and most of my projects](./globalLicense.md) 
+### [Global MIT License, applied to my gists and most of my projects](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/globalLicense.md) 
 
-### [(other than this project, which is licensed under the WTFPL)](./LICENSE.txt)
+### [(other than this project, which is licensed under the WTFPL)](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/LICENSE)
 
 ----
 
