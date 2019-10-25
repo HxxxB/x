@@ -6,7 +6,10 @@
 
 ----
 
-#### [Global MIT License, applied to my gists and most of my projects](./globalLicense.md) [(other than this project, which is licensed under the WTFPL)](./LICENSE.txt)
+### [Global MIT License, applied to my gists and most of my projects](./globalLicense.md) 
+
+### [(other than this project, which is licensed under the WTFPL)](./LICENSE.txt)
+
 ----
 
 ### Social handles: 
