@@ -8,6 +8,8 @@
 
 ### [Global MIT License, applied to my gists and most of my projects](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/globalLicense.md) 
 
+----
+
 ### [(other than this project, which is licensed under the WTFPL; warning: explicit)](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/LICENSE)
 
 ----
