@@ -18,6 +18,6 @@
 
 #### GitHub (you should know this by now): [`Snowynx`](https://github.com/Snowynx)
 #### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) (private)
-#### Discord: `Snowy#3300`
+#### Discord: `Snowy#3330`
 #### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
 #### Email (no messing around please): `snowleopard756x at gmail dot com`
