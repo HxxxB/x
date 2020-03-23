@@ -20,3 +20,4 @@
 ### [(other than this project, which is licensed under the WTFPL; warning: explicit)](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/LICENSE)
 
 ----
+<link rel="shortcut icon" type="image/png" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png">
