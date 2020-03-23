@@ -1,4 +1,4 @@
-## Hello! I play video games and do programming in my free time. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="40" height="40"/>
+## Hello! I play video games and do programming. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="40" height="40"/> Manitoba
 
 ### Handles: 
 
