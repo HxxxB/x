@@ -3,7 +3,7 @@
 ### Handles: 
 
 #### GitHub : [`Snowynx`](https://github.com/Snowynx)
-#### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) (private)
+#### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
 #### Discord: `Snowy#3330`
 #### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
 #### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
