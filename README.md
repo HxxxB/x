@@ -2,13 +2,13 @@
 
 ### Want a basic website/program? DM me on my handles and we can talk
 
-### Handles: 
+## Handles: 
 
-#### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
-#### Discord: `Snowy#3330`
-#### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
-#### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
-#### Email (no messing around please): [`snowleopard756x at gmail dot com`](mailto:snowleopard756x@gmail.com)
+### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
+### Discord: `Snowy#3330`
+### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
+### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
+### Email (no messing around please): [`snowleopard756x at gmail dot com`](mailto:snowleopard756x@gmail.com)
 
 ----
 
