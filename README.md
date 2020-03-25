@@ -14,17 +14,16 @@
 ----
 
 <details>
-<summary style="font-size: 1.8vw">
+<summary style="font-size: 1.5vw">
   <b>Developer stuff (click to open): </b>
 </summary>
 <p>
 
-### [Gists are found here](https://gist.github.com/Snowynx)
+<h3> Gists are found <a href="https://gist.github.com/Snowynx">here</a> </h3>
 
-### [Global MIT License, applied to my gists and most of my projects
-(https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/globalLicense.md) 
+<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/globalLicense.md">here</a> </h3>
 
-### [(other than this project, which is licensed under the WTFPL; warning: explicit)](https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/LICENSE)
+<h4> (other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/LICENSE"> here</a> </h4>
 </p>
 </details>
 
