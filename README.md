@@ -4,7 +4,6 @@
 
 ### Handles: 
 
-#### GitHub: [`Snowynx`](https://github.com/Snowynx)
 #### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
 #### Discord: `Snowy#3330`
 #### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
@@ -19,6 +18,7 @@
 </summary>
 <p>
 
+<h3> My GitHub (Snowynx) is available <a href="https://github.com/Snowynx">right here,</a> and my repositories/projects are found <a href="https://github.com/Snowynx?tab=repositories">right here</a></h3>
 <h3> Gists are found <a href="https://gist.github.com/Snowynx">here</a> </h3>
 
 <h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/Snowynx/Snowynx.github.io/master/globalLicense.md">here</a> </h3>
