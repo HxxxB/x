@@ -13,7 +13,7 @@
 ----
 
 <details>
-<summary style="font-size: 1.5vw">
+<summary style="font-size: 1vw">
   <b>Developer stuff (click to open): </b>
 </summary>
 <p>
