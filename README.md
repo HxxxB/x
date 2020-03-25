@@ -14,7 +14,7 @@
 ----
 
 <details>
-<summary style="font-size: 30vw">
+<summary style="font-size: 4vw">
   <b>Developer stuff (click to open): </b>
 </summary>
 <p>
