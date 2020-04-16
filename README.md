@@ -5,7 +5,7 @@
 
 ## Handles: 
 
-### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
+### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
 ### Discord: `Snowy#3330`
 ### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
 ### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
