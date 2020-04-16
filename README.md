@@ -7,7 +7,7 @@
 
 ### Steam: [`Snowynx`](https://steamcommunity.com/id/Snowynx/) 
 ### Discord: `Snowy#3330`
-### Twitter: [`@SnowynxIsHere (Snowy)`](https://twitter.com/SnowynxIsHere)
+### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
 ### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
 ### Email (no messing around please): [`snowleopard756x at gmail dot com`](mailto:snowleopard756x@gmail.com)
 
