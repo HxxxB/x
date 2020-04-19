@@ -9,7 +9,7 @@
 ### Discord: `Snowy#3330`
 ### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
 ### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
-### Email (no messing around please): [`snowleopard756x at gmail dot com`](mailto:snowleopard756x@gmail.com)
+### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
 ----
 
