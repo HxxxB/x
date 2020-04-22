@@ -1,6 +1,8 @@
 ## Hello! I play video games and do programming. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="22" height="22"/> Manitoba
 
-### Want a basic website/program? DM me on my handles and we can talk
+### ~~Want a basic website/program? DM me on my handles and we can talk~~
+### update: requests are closed for now due to personal life
+
 ### My PC specs can be found right [here](https://pcpartpicker.com/user/Snowynx/saved/)
 
 ## Handles: 
