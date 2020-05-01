@@ -2,8 +2,6 @@
 
 ### Want a basic website/program? DM me on my handles and we can talk
 
-### My PC specs can be found right [here](https://pcpartpicker.com/user/Snowynx/saved/)
-
 ## Handles: 
 
 ### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
@@ -13,6 +11,31 @@
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
+
+----
+
+<details>
+<summary style="font-size: 1.8em">
+  <b>My PC specs (click to open): </b>
+</summary>
+<p> <b>
+cpu - i7-8700K @3.7 GHz/4.7GHz oc'd - 6 cores
+gpu - EVGA GeForce GTX 1070 Ti 8 GB - gddr5x/fan+radiator
+ram - Corsair Vengeance RGB Pro 16 GB (2x8 gb) DDR4-3200
+monitor - LG 27GL850-B 27.0" 2560x1440 144 Hz Monitor
+cpu cooler (air) - Noctua NH-D15S 82.52 CFM 
+thermal paste (for cpu) - Thermal Grizzly Kryonaut 5.5 g 
+motherboard - ASRock Z390 Taichi Ultimate ATX LGA1151
+ssd storage - Samsung 970 EVO Plus 2 TB M.2-2280 NVME
+hdd storage - Seagate Barracuda Compute 2 TB 3.5" 7200RPM
+case - NZXT H510 ATX Mid Tower Case
+power supply - Corsair RMx (2018) 850 W 80+ Gold Certified Fully Modular ATX
+operating system - Windows 10 Pro
+case fans - Corsair LL120RGB LED / 43.25 CFM 120 mm
+keyboard - corsair k68 rgb/wired
+mouse - g502 hero wired 
+</b> </p>
+</details>
 
 ----
 
