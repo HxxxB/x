@@ -11,7 +11,7 @@
 ### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
 ### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
-### Twitch: [`snowyishereeee`](https://www.twitch.tv/snowyishereee)
+### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
 ----
