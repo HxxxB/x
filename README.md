@@ -8,7 +8,7 @@
 ### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
 ### Discord: `Snowy#3330`
 ### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
-### Instagram: [`@snowyishereee`](https://www.instagram.com/snowyishereee/)
+### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
