@@ -7,7 +7,7 @@
 
 ### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
 ### Discord: `Snowy#3330`
-### Twitter: [`@SnowyIsHereeee (Snowy)`](https://twitter.com/SnowyIsHereeee)
+### Twitter: ~~`@SnowyIsHereeee (Snowy)`~~ nvm my twitter got suspended
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
