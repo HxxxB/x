@@ -1,4 +1,4 @@
-## Hello! I play video games and do programming. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="22" height="22"/> Manitoba
+## Hello! I play video games and do programming in my free time. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="24" height="24"/> Manitoba
 
 ### Want a basic website/program? DM me on my handles and we can talk
 ### My PC specs can be found right [here](./pcspecs.html) 
