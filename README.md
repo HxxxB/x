@@ -2,6 +2,7 @@
 
 ### Want a basic website/program? DM me on my handles and we can talk
 ### My PC specs can be found right [here](./pcspecs.html) 
+### Add me on Steam if you want to join a Steam group I made idk
 
 ## Handles: 
 
