@@ -7,8 +7,7 @@
 ## Handles: 
 
 ### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
-### Discord: `Snowy#3330`
-### Twitter: ~~`@SnowyIsHereeee (Snowy)`~~ nvm my twitter got suspended
+### Discord: `Hx#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
@@ -22,12 +21,12 @@
 </summary>
 <p>
 
-<h3> My GitHub (SnowyIsHere) is available <a href="https://github.com/SnowyIsHere">right here,</a> and my repositories/projects are found <a href="https://github.com/SnowyIsHere?tab=repositories">right here</a></h3>
-<h3> Gists are found <a href="https://gist.github.com/SnowyIsHere">here</a> </h3>
+<h3> My GitHub (HxxxB) is available <a href="https://github.com/HxxxB">right here,</a> and my repositories/projects are found <a href="https://github.com/HxxxB?tab=repositories">right here</a></h3>
+<h3> Gists are found <a href="https://gist.github.com/HxxxB">here</a> </h3>
 
-<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/SnowyIsHere/snowyishere.github.io/master/globalLicense.md">here</a> </h3>
+<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HxxxB/HxxxB.github.io/master/globalLicense.md">here</a> </h3>
 
-<h6> other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/snowyishere/snowyishere.github.io/master/LICENSE"> here</a> </h6>
+<h6> other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HxxxB/HxxxB.github.io/master/LICENSE"> here</a> </h6>
 </p>
 </details>
 
