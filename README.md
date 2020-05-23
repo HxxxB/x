@@ -6,7 +6,7 @@
 
 ## Handles: 
 
-### Steam: [`Snowy`](https://steamcommunity.com/id/SnowyIsHereeee) 
+### Steam: [`Snowy`](https://steamcommunity.com/id/HxxxB/) 
 ### Discord: `Hx#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
 ### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
