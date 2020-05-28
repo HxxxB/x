@@ -1,6 +1,6 @@
 ## Hello! I play video games and do programming in my free time. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="24" height="24"/> Manitoba
 
-### Block Spotify ads on Windows for free using [this program that I made](https://github.com/HxxxB/SpotifyAdBlocker/releases/)
+### Block Spotify ads on Windows for free using [this program that I made](https://snowyishere.tech/SpotifyAdBlocker)
 ### Want a basic website/program? DM me on my handles and we can talk
 ### My PC specs can be found right [here](./pcspecs.html) 
 ### Add me on Steam if you want to join a Steam group I made idk
