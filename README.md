@@ -1,7 +1,5 @@
 ## Hello! I play video games and do programming in my free time. Student @ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/236/flag-for-canada_1f1e8-1f1e6.png" alt="drawing" width="24" height="24"/> Manitoba
 
-## [Black Lives Matter](https://snowyishere.tech/BlackLivesMatter.html)
-
 ### Block Spotify ads on Windows for free using [this program that I made](https://snowyishere.tech/SpotifyAdBlocker)
 ### Want a basic website/program? DM me on my handles and we can talk
 ### My PC specs can be found right [here](./pcspecs.html) 
@@ -9,10 +7,10 @@
 
 ## Handles: 
 
-### Steam: [`Snowy`](https://steamcommunity.com/id/HxxxB/) 
+### Steam: [`Hx`](https://steamcommunity.com/id/HxxxB/) 
 ### Discord: `Hx#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
-### YouTube: [`Snowy`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
+### YouTube: [`Hx`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
