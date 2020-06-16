@@ -2,7 +2,7 @@
 
 ### Block Spotify ads on Windows for free using [this program that I made](https://snowyishere.tech/SpotifyAdBlocker)
 ### Want a basic website/program? DM me on my handles and we can talk
-### My PC specs can be found right [here](./pcspecs.html) 
+### My PC specs can be found right on my Steam profile, linked below
 ### Add me on Steam if you want to join a Steam group I made idk
 
 ## Handles: 
