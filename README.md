@@ -22,12 +22,12 @@
 </summary>
 <p>
 
-<h3> My GitHub (HxxzB4) is available <a href="https://github.com/HxxzB4">right here,</a> and my repositories/projects are found <a href="https://github.com/HxxxB?tab=repositories">right here</a></h3>
-<h3> Gists are found <a href="https://gist.github.com/HxxxB">here</a> </h3>
+<h3> My GitHub (HxxzB4) is available <a href="https://github.com/HxxzB4">right here,</a> and my repositories/projects are found <a href="https://github.com/HxxzB4?tab=repositories">right here</a></h3>
+<h3> Gists are found <a href="https://gist.github.com/HxxzB4">here</a> </h3>
 
-<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HxxxB/HxxxB.github.io/master/globalLicense.md">here</a> </h3>
+<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HxxzB4/HxxzB4.github.io/master/globalLicense.md">here</a> </h3>
 
-<h6> other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HxxxB/HxxxB.github.io/master/LICENSE"> here</a> </h6>
+<h6> other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HxxzB4/HxxzB4.github.io/master/LICENSE"> here</a> </h6>
 </p>
 </details>
 
