@@ -7,10 +7,10 @@
 
 ## Handles: 
 
-### Steam: [`Hx`](https://steamcommunity.com/id/HxxxB/) 
-### Discord: `Hx#5814`
+### Steam: [`Hxxz`](https://steamcommunity.com/id/Hxxz) 
+### Discord: `Hxxz#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
-### YouTube: [`Hx`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
+### YouTube: [`Hxxz`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`snowyishereee`](https://www.twitch.tv/snowyishereee)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
@@ -22,7 +22,7 @@
 </summary>
 <p>
 
-<h3> My GitHub (HxxxB) is available <a href="https://github.com/HxxxB">right here,</a> and my repositories/projects are found <a href="https://github.com/HxxxB?tab=repositories">right here</a></h3>
+<h3> My GitHub (HxxzB4) is available <a href="https://github.com/HxxzB4">right here,</a> and my repositories/projects are found <a href="https://github.com/HxxxB?tab=repositories">right here</a></h3>
 <h3> Gists are found <a href="https://gist.github.com/HxxxB">here</a> </h3>
 
 <h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HxxxB/HxxxB.github.io/master/globalLicense.md">here</a> </h3>
