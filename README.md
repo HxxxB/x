@@ -7,10 +7,10 @@
 
 ## Handles: 
 
-### Steam: [`Hxxz`](https://steamcommunity.com/id/HxxzB) 
+### Steam: [`HxxzB`](https://steamcommunity.com/id/HxxzB) 
 ### Discord: `Hxxz#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
-### YouTube: [`Hxxz`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
+### YouTube: [`HxxzB`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`HxxzB`](https://www.twitch.tv/HxxzB)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
