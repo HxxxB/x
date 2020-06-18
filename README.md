@@ -27,7 +27,7 @@
 
 <h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HxxzB4/HxxzB4.github.io/master/globalLicense.md">here</a> </h3>
 
-<h6> other than this project, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HxxzB4/HxxzB4.github.io/master/LICENSE"> here</a> </h6>
+<h6> other than this website, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HxxzB4/HxxzB4.github.io/master/LICENSE"> here</a> </h6>
 </p>
 </details>
 
