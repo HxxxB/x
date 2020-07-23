@@ -18,12 +18,12 @@
 </summary>
 <p>
 
-<h3> My GitHub (HanzBadua) is available <a href="https://github.com/HanzBadua">right here,</a> and my repositories/projects are found <a href="https://github.com/HanzBadua?tab=repositories">right here</a></h3>
-<h3> Gists are found <a href="https://gist.github.com/HanzBadua">here</a> </h3>
+<h3> My GitHub (Hxxzii) is available <a href="https://github.com/Hxxzii">right here,</a> and my repositories/projects are found <a href="https://github.com/Hxxzii?tab=repositories">right here</a></h3>
+<h3> Gists are found <a href="https://gist.github.com/Hxxzii">here</a> </h3>
 
-<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/HanzBadua/HanzBadua.github.io/master/globalLicense.md">here</a> </h3>
+<h3> Global MIT License, applied to my gists and most of my projects, found <a href="https://raw.githubusercontent.com/Hxxzii/Hxxzii.github.io/master/globalLicense.md">here</a> </h3>
 
-<h6> other than this website, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/HanzBadua/HanzBadua.github.io/master/LICENSE"> here</a> </h6>
+<h6> other than this website, which is licensed under the WTFPL; warning: explicit, found <a href="https://raw.githubusercontent.com/Hxxzii/Hxxzii.github.io/master/LICENSE"> here</a> </h6>
 </p>
 </details>
 
