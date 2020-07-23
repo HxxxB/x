@@ -1,5 +1,3 @@
-## i play video games and do programming in my free time
-
 ### Block Spotify ads on Windows for free using [this program that I made](https://snowyishere.tech/SpotifyAdBlocker)
 ### Want a basic website/program? DM me on my handles and we can talk
 
