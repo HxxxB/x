@@ -3,10 +3,10 @@
 
 ## Handles: 
 
-### Steam: [`Hxxz`](https://steamcommunity.com/id/Hxxz) 
-### Discord: `Hxxz#5814`
+### Steam: [`Hxxzii`](https://steamcommunity.com/id/Hxxzii) 
+### Discord: `Hxxzii#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
-### YouTube: [`Hxxz`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
+### YouTube: [`Hxxzii`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`HxxzB`](https://www.twitch.tv/HxxzB)
 ### Email (no messing around please): [`snow at snowyishere dot tech`](mailto:snow@snowyishere.tech)
 
