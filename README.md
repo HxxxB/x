@@ -1,6 +1,3 @@
-### Block Spotify ads on Windows for free using [this program that I made](https://snowyishere.tech/SpotifyAdBlocker)
-### Want a basic website/program? DM me on my handles and we can talk
-
 ## Handles: 
 
 ### Steam: [`Hxxzii`](https://steamcommunity.com/id/Hxxzii) 
