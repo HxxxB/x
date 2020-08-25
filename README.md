@@ -1,3 +1,7 @@
+##### hello
+
+## [PC specs can be found here](./pcspecs.html)
+
 ## Handles: 
 
 ### Steam: [`Hxxzii`](https://steamcommunity.com/id/Hxxzii) 
