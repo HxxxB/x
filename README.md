@@ -1,5 +1,3 @@
-##### hello
-
 ## [PC specs can be found here](./pcspecs.html)
 
 ## Handles: 
