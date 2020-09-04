@@ -5,7 +5,6 @@
 ## Handles: 
 
 ### Steam: [`Hxxzii`](https://steamcommunity.com/id/Hxxzii) 
-### Discord: `hz#5814`
 ### Instagram: [`@hanz.b_`](https://www.instagram.com/hanz.b_/)
 ### YouTube: [`Hxxzii`](https://www.youtube.com/channel/UCzbPq7pFUYmdnUwYGnA2omg)
 ### Twitch: [`Hxxzii`](https://www.twitch.tv/Hxxzii)
