@@ -1,15 +1,17 @@
-@font-face{
-    font-family:Montserrat;
+@font-face {
+	font-family:Montserrat;
     src:url(../assets/Montserrat/fonts/webfonts/Montserrat-Regular.woff2) format('woff2'),url(../assets/Montserrat/fonts/ttf/Montserrat-Regular.ttf) format('truetype');
     font-weight:400;
     font-style:normal
 }
-@font-face{
+
+@font-face {
     font-family:Montserrat;
     src:url(../assets/Montserrat/fonts/webfonts/Montserrat-Bold.woff2) format('woff2'),url(../assets/Montserrat/fonts/ttf/Montserrat-Bold.ttf) format('truetype');
     font-weight:700;
     font-style:normal
 }
+
 #navbar {
     padding:20px 0;
     background:#0a0a0a;
@@ -18,19 +20,23 @@
     display:flex;
     justify-content:center
 }
-#navbar .item{
+
+#navbar .item {
     font-weight:700;
     padding:10px 0;
     margin:0 30px
 }
-#navbar .item i{
+
+#navbar .item i {
     margin-right:10px
 }
-#navbar .item.active{
+
+#navbar .item.active {
     color:#d581ff;
     border-bottom:solid 2px #d581ff
 }
-@media only screen and (max-width:600px){
+
+@media only screen and (max-width:600px) {
     #navbar{
         padding:15px 0
     }
@@ -39,7 +45,8 @@
         margin:0 15px
     }
 }
-#wrapper{
+
+#wrapper {
     padding:40px 0;
     margin:0 30px;
     display:flex;
@@ -47,42 +54,51 @@
     justify-content:center;
     flex-grow:1
 }
-#wrapper .page-content{
+
+#wrapper .page-content {
     max-width:800px
 }
-.fab.prefix-icon,.fas.prefix-icon{
+
+.fab.prefix-icon,.fas.prefix-icon {
     margin-right:8px
 }
-.portfolio{
+
+.portfolio {
     text-align:center
 }
-.portfolio-list{
+
+.portfolio-list {
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:center;
     text-align:left
 }
-.portfolio-list .item{
+
+.portfolio-list .item {
     max-width:320px;
     margin:20px
 }
-.portfolio-list .bubble{
+
+.portfolio-list .bubble {
     margin:12px 0;
     width:320px;
     height:180px
 }
-.portfolio-list .bubble picture{
+
+.portfolio-list .bubble picture {
     width:320px;
     height:180px
 }
-.portfolio-list a.bubble{
+
+.portfolio-list a.bubble {
     cursor:pointer;
     display:flex;
     justify-content:center;
     align-items:center
 }
-.portfolio-list a.bubble::after{
+
+.portfolio-list a.bubble::after {
     position:absolute;
     display:block;
     color:#fff;
@@ -92,64 +108,78 @@
     opacity:0;
     transition:opacity .3s
 }
-.portfolio-list a.bubble:focus::after,.portfolio-list a.bubble:hover::after{
+
+.portfolio-list a.bubble:focus::after,.portfolio-list a.bubble:hover::after {
     opacity:1;
     transition:opacity .3s;
     transition-delay:.1s
 }
-.portfolio-list a.bubble:focus .inner,.portfolio-list a.bubble:hover .inner{
+
+.portfolio-list a.bubble:focus .inner,.portfolio-list a.bubble:hover .inner {
     opacity:.35;
     transition:opacity .5s,transform .5s;
     transform:scale(1.1)
 }
-.portfolio-list a.bubble .inner{
+
+.portfolio-list a.bubble .inner {
     opacity:1;
     transition:opacity .5s,transform .5s
 }
-.portfolio-list .bubble{
+
+.portfolio-list .bubble {
     background:#111;
     border-radius:3px;
     width:320px;
     height:180px;
     overflow:hidden
 }
-.portfolio-list h3,.portfolio-list h4,.portfolio-list h5{
+
+.portfolio-list h3,.portfolio-list h4,.portfolio-list h5 {
     margin:0
 }
-.portfolio-list .subtitle{
+
+.portfolio-list .subtitle {
     font-size:.6em;
     color:#bbb;
     line-height:1.4em;
     font-weight:400;
     margin-top:0
 }
-.portfolio-list .small{
+
+.portfolio-list .small {
     font-size:.7em;
     color:#bbb;
     line-height:1.4em
 }
-.portfolio-list .date{
+
+.portfolio-list .date {
     color:#999
 }
-.intro .avatar{
+
+.intro .avatar {
     width:80px;
     margin-bottom:10px;
     border-radius:50%
 }
-.btn{
+
+.btn {
     margin:10px
 }
-.btn-row{
+
+.btn-row {
     display:flex;
     flex-wrap:wrap
 }
-.btn-row .btn{
+
+.btn-row .btn {
     margin:10px 0
 }
-.btn-row .btn:not(:last-child){
+
+.btn-row .btn:not(:last-child) {
     margin-right:20px
 }
-.link{
+
+.link {
     color:#ddd;
     text-decoration:none;
     border-bottom:dotted 1px #aaa;
@@ -157,48 +187,52 @@
     font-size:1em;
     font-weight:700
 }
-.link:hover{
+
+.link:hover {
     color:#fff;
     border-bottom:solid 1px #fff
 }
-.link .fab,.link .fas{
+
+.link .fab,.link .fas {
     margin-right:6px;
     font-weight:300
 }
-.link .fa-external-link-alt{
+
+.link .fa-external-link-alt {
     font-size:.5em;
     margin-left:3px
 }
-body{
+
+body {
     font-family:Montserrat,sans-serif;
-    font-size:16px;
-    line-height:1.8em
-}
-@media only screen and (max-width:600px){
-    body{
-        font-size:15px
-    }
-}
-body{
-    background:#141414;
-    color:#ddd
-}
-footer{
-    font-size:.6em;
-    color:#888
-}
-body,html{
-    margin:0;
-    padding:0;
-    min-height:100vh
-}
-body{
-    display:flex;
+    font-size:17px;
+    line-height:1.8em;
+	background:#141414;
+	color:#ddd;
+	display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center
 }
-hr{
+
+@media only screen and (max-width:600px) {
+    body {
+        font-size:16px
+    }
+}
+
+footer {
+    font-size:.6em;
+    color:#888
+}
+
+body,html {
+    margin:0;
+    padding:0;
+    min-height:100vh
+}
+
+hr {
     display:block;
     border:0;
     border-top:1px solid #444;
