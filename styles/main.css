@@ -65,105 +65,6 @@
     margin-right:8px
 }
 
-.portfolio {
-    text-align:center
-}
-
-.portfolio-list {
-    display:flex;
-    flex-direction:row;
-    flex-wrap:wrap;
-    justify-content:center;
-    text-align:left
-}
-
-.portfolio-list .item {
-    max-width:320px;
-    margin:20px
-}
-
-.portfolio-list .bubble {
-    margin:12px 0;
-    width:320px;
-    height:180px
-}
-
-.portfolio-list .bubble picture {
-    width:320px;
-    height:180px
-}
-
-.portfolio-list a.bubble {
-    cursor:pointer;
-    display:flex;
-    justify-content:center;
-    align-items:center
-}
-
-.portfolio-list a.bubble::after {
-    position:absolute;
-    display:block;
-    color:#fff;
-    font-family:"Font Awesome 5 Free";
-    font-size:2em;
-    content:"\f35d";
-    opacity:0;
-    transition:opacity .3s
-}
-
-.portfolio-list a.bubble:focus::after,.portfolio-list a.bubble:hover::after {
-    opacity:1;
-    transition:opacity .3s;
-    transition-delay:.1s
-}
-
-.portfolio-list a.bubble:focus .inner,.portfolio-list a.bubble:hover .inner {
-    opacity:.35;
-    transition:opacity .5s,transform .5s;
-    transform:scale(1.1)
-}
-
-.portfolio-list a.bubble .inner {
-    opacity:1;
-    transition:opacity .5s,transform .5s
-}
-
-.portfolio-list .bubble {
-    background:#111;
-    border-radius:3px;
-    width:320px;
-    height:180px;
-    overflow:hidden
-}
-
-.portfolio-list h3,.portfolio-list h4,.portfolio-list h5 {
-    margin:0
-}
-
-.portfolio-list .subtitle {
-    font-size:.6em;
-    color:#bbb;
-    line-height:1.4em;
-    font-weight:400;
-    margin-top:0
-}
-
-.portfolio-list .small {
-    font-size:.7em;
-    color:#bbb;
-    line-height:1.4em
-}
-
-.portfolio-list .date {
-    color:#999
-}
-
-.intro .avatar {
-    width:80px;
-    margin-bottom:10px;
-    border-radius:50%
-}
-
 .btn {
     margin:10px
 }
@@ -234,7 +135,7 @@ footer {
     color:#888
 }
 
-body,html {
+body, html {
     margin:0;
     padding:0;
     min-height:100vh
