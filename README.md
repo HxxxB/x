@@ -7,4 +7,4 @@
 
 [Montserrat font](https://github.com/JulietaUla/Montserrat)
 
-[Some Twemoji icons, more details here](https://github.com/Hxxzii/Hxxzii.github.io/blob/master/assets/twemoji-icons/README.md)
+[Some Twemoji icons, more details here](https://github.com/Hxxzii/Hxxzii.github.io/blob/main/assets/twemoji-icons/README.md)
